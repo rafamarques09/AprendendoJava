@@ -2,7 +2,7 @@ package devdojo.apendendo.java.javacore.introducaometodos.test;
 
 import devdojo.apendendo.java.javacore.introducaometodos.dominio.Calculadora;
 
-public class EstudanteTest04 {
+public class CalculadoraTest04 {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
         int num1 = 1;
